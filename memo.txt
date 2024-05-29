@@ -1,0 +1,1 @@
+wget --content-disposition https://packages.gitlab.com/gitlab/gitlab-ee/packages/el/8/gitlab-ee-14.4.4-ee.0.el8.x86_64.rpm/download.rpm
